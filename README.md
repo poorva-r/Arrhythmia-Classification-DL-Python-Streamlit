@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains the code for an Arrhythmia Classification project, a machine-learning endeavor aimed at categorizing heart rhythm abnormalities. Arrhythmia refers to irregular heartbeats, which can lead to various health issues. This project employs two different classification approaches: image classification and CSV file-based classification. The models are developed using state-of-the-art machine learning techniques and deployed using Streamlit, providing an intuitive user interface for arrhythmia detection.
+This repository contains the code for an Arrhythmia Classification project, a machine-learning endeavor aimed at categorizing heart rhythm abnormalities. Arrhythmia refers to irregular heartbeats, which can lead to various health issues. This project employs two different classification approaches: image classification and CSV file-based classification. The models are developed using deep learning techniques and deployed using Streamlit, providing an intuitive user interface for arrhythmia detection.
 
 ## Technologies Used
 
