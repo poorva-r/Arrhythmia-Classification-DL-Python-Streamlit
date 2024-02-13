@@ -10,7 +10,7 @@ This repository contains the code for an Arrhythmia Classification project, aime
 - Python
 
 ### Tools
-- Google Colab
+- Google Collaboratory
  - Jupyter Notebook
  - VSCode
 
